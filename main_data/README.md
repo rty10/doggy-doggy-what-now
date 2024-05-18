@@ -3,3 +3,5 @@ Main: This directory will be storage for any and all data to be used. All data a
 
 It is vital that any and all data be organized with proper naming: No whitespace in file/directory names, and keep special characters limited to "_" only.
 
+JPH 18MAY2024 - Adding AustinTXIn and AustinTXOut (this is uncleaned data - use this instead of AustinTxData)
+
