@@ -26,10 +26,10 @@ and more.
 
 ### Glossary of Terms
 The compiled list are words/phrases that data scientists commonly ran into during this project. Please refer to this list as you navigate this repository. 
-*Intake*: The factors in which a dog has been placed into an animal shelter.
+- *Intake*: The factors in which a dog has been placed into an animal shelter.
     - factors include: strays and/or abandoned dogs; public assistance; owner surrender (multiple reasons)
 
-*Outcome*: The factors in which a dog has left an animal shelter.
+- *Outcome*: The factors in which a dog has left an animal shelter.
     - factors include: adopted; returned to owner; lost or stolen; euthanized
 
 
