@@ -52,7 +52,7 @@ This is the data and programming repository associated with the May 2024 Erdos B
 Any programming that was conducted with Python3 in live-kernal notebooks utilized the `erdos_may_2024` conda environment build. You can find the most recent Conda environment file in `assets`/
 
 Any additional Python3 packages required for this project can be found below.
-- None as of 28 May 2024
+- CatBoost (https://catboost.ai, v. 1.2.3): downloaded and used during classification modeling (*yes, we see the irony of using cats on a dog-centered project*)
 
 ### 
 
