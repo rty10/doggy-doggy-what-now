@@ -1,4 +1,4 @@
-# Doggy Doggy! ... now what?
+# Doggy Doggy! ... what now?
 
 ## The Project
 ![image Image from "https://lifelineanimal.org/state-of-the-shelters/"](./images/for_markdown_files/state-of-the-shelters-blog-post-header.jpg)
