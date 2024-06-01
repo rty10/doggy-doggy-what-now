@@ -67,7 +67,7 @@ This is the data and programming repository associated with the May 2024 Erdos B
 
 ###  Team Members 
 
-- John Harden
+- John P. Harden
 - Angela Kubena
 - Jun Bo Lau
 - Claire Merriman 
