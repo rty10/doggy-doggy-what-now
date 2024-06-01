@@ -43,7 +43,13 @@ Modeling efforts to predict when to expect intakes or outcomes to best assist an
 
 ### Time *Independent* Modeling
 
-Modeling efforts to predict likelihood of dog adoption based on features of the animal intake as well as season of adoption were conducted, with highlights of data below.
+Modeling efforts to predict likelihood of dog adoption based on features of the animal intake as well as season of adoption were conducted, with highlights of data below. Use of the Sonoma County data allowed us to develop random forest models via categortical boosting with CatBoost. Determining an ideal decision tree depth of 6, modeling with a classifier resulted in a model that depends of features `intake_age`, `intake_type`, `size`, `outcome_season`, and `days_in_shelter`. The figures below show individial ROC graphs for each possible feature, the ROC curve of the final CatBoostClassifier() model, and looking at the accuracies of the model between the training and test data.
+
+![image ROC of Sonoma County classification features.](./images/time_independent_figures/ROC_model_ind_features.png)
+
+![image ROC of final CatBoostClassifier Model.](./images/time_independent_figures/ROC_final_model.png)
+
+![image Accuracies of final model compared to the training and to the testing data.](./images/time_independent_figures/accur_score_model_train_test.png)
 
 
 ### Glossary of Terms
