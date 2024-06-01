@@ -24,6 +24,28 @@ A series of socioeconmic and cultural touchstones were explored to improve our m
 - Seasons and temperature
 and more.
 
+## The Modeling
+
+The project team started from a 3-year aggregration of data to ascertain particulars about animal shelters, particularly surrounding the intake and outcome of dogs with respect to adoptions. Exploratory data analysis led the team to consider both time-dependent and time-independent modeling to best predict factors surrounding adoptions and when to determine changes in intake and/or outcome behaviors.
+
+![image 3 year aggregate data of dog intakes per state](./images/for_markdown_files/eda_3yr-sas-agg_intakes.png)
+
+###  Time Dependent Modeling
+
+Modeling efforts to predict when to expect intakes or outcomes to best assist animal shelters were conducted, with highlights of data below.
+
+![image Time dependent data of dog intakes with rolling average data.](./images/for_markdown_files/time_dep_dog_intakes.png)
+
+![image Time dependent predictions of dog intakes with rolling average data.](./images/for_markdown_files/time_dep_dog_intake_preds.png)
+
+![image Autocorrelation with respect to lag of time dependent dog intake predictions.](./images/for_markdown_files/time_dep_dog_into_autocorr.png)
+
+
+### Time *Independent* Modeling
+
+Modeling efforts to predict likelihood of dog adoption based on features of the animal intake as well as season of adoption were conducted, with highlights of data below.
+
+
 ### Glossary of Terms
 The compiled list are words/phrases that data scientists commonly ran into during this project. Please refer to this list as you navigate this repository. 
 - *Intake*: The factors in which a dog has been placed into an animal shelter.
