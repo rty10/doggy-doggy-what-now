@@ -3,7 +3,7 @@
 ## The Project
 ![image Image from "https://lifelineanimal.org/state-of-the-shelters/"](./images/for_markdown_files/state-of-the-shelters-blog-post-header.jpg)
 
-The main question posed by our group is whether one can predict the rates of intake and/or adoption of dogs in animal shelters based on certain socioeconmic or cultural criteria.
+The main question posed by our group is whether one can predict the rates of intake and/or adoption of dogs in animal shelters based on certain socioeconomic or cultural criteria.
 
 
 ### Macro-Level Data: 
